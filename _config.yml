@@ -1,0 +1,8 @@
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+
+include:
+  - .htaccess
+  - node_modules
