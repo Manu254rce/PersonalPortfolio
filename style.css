@@ -321,6 +321,13 @@ hr
   padding-top:10px;
 }
 
+form 
+{
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
 .spacer
 {
   aspect-ratio: 960/300;
